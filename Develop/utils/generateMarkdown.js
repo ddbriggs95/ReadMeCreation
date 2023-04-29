@@ -21,6 +21,7 @@ by ${data.name}
 * [Usage](#usage)
 * [Contributors](#contributors)
 * [Testing](#testing)
+* [Questions](#questions)
 
 ## Description
 ${data.description}
@@ -32,6 +33,10 @@ ${data.usage}
 ${data.contribution}
 ## Testing
 ${data.tests}
+## Questions
+* Name - ${data.name}
+* Email - ${data.email}
+* Github - [${data.username}](https://github.com/${data.username}/)
 `;
 }
 
