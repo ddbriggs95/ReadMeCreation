@@ -28,11 +28,14 @@ GIVEN a command-line application that accepts user input
 
 Below is a demonstration of how the application works via the command line:
 
+https://drive.google.com/file/d/1q1Qc6wgiZhwULPObdx7c7ZZPmQAs0ScW/view
 
 
 GitHub repository: https://github.com/ddbriggs95/ReadMeCreation
 
-**Source Code is located in the index.js file** 
+**Source Code is located in the index.js and generateMarkdown.js files**
+**Newly generated README.md file located in dist folder.**
+  
 
 
 
